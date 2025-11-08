@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title("Chat Bot")
+st.title("Echo Bot")
 
 
 # Initialize chat history
